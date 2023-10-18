@@ -46,6 +46,7 @@ python hand_gesture_detection.py
 ## Customization
 - You can customize the gestures by training your own gesture recognition model and updating the `model` variable in `main.py` with your model.
 - Adjust the confidence threshold for gesture detection by modifying the `min_detection_confidence` variable in `main.py`.
+- You can also customize the code to recognize a specific number of hands.
 
 ## Issues and Contributions
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/hand-gesture-emergency-notification/issues) or [create a pull request](https://github.com/your-username/hand-gesture-emergency-notification/pulls).
